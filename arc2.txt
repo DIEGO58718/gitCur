@@ -1,1 +1,2 @@
 obj 1* con midificacion 
+obj 2
