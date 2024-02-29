@@ -1,1 +1,2 @@
 obj 1 de archivo 1
+obj 2 de archivo 1
