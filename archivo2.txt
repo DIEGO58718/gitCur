@@ -1,1 +1,2 @@
 objeto 1 del archivo 2
+objeto 2 de archivo 2 que se agrego estando desde la rama2
